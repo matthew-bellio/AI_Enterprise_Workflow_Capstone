@@ -1,0 +1,9 @@
+
+cython
+numpy
+flask
+pandas
+numpy
+requests
+matplotlib
+scikit-learn

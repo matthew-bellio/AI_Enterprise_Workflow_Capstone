@@ -1,0 +1,3 @@
+unique_id,timestamp,country,y_pred,y_proba,target_date,model_version,runtime
+222575fc-316f-42f4-9a21-dc8cc69c2140,1608059598.8412213,eire,[0],None,2019-01-05,00:00:01,0.1
+11fe3fb1-0837-4ffc-bdfd-060f010a7837,1608059598.844223,eire,[0],None,2019-01-05,00:00:01,0.1
